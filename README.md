@@ -147,14 +147,39 @@ This project was completed as part of my internship with Andhra Pradesh State Sk
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-Add screenshots of:
+### 1. AWS EC2 Setup & Dashboard
+![AWS EC2 Dashboard](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/1.png)
+*Screenshot demonstrating the initial cloud setup or project configuration.*
 
-* AWS EC2 Dashboard
-* Ubuntu Server Terminal
-* Apache2 Configuration
-* Live Website
+### 2. Server Configuration
+![Server Configuration](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/2.png)
+*Server environment setup and backend preparation.*
+
+### 3. Apache & Website Deployment
+![Website Deployment](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/3.png)
+*Configuring Apache2 web server and setting up the project files.*
+
+### 4. Live Website Overview
+![Live Website Overview](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/4.png)
+*A look at the fully deployed live website.*
+
+### 5. Project Interface - Part 1
+![Project Interface 1](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/5.png)
+*Detailed view of the project interface and features.*
+
+### 6. Project Interface - Part 2
+![Project Interface 2](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/6.png)
+*Additional UI components and layout structure.*
+
+### 7. Interactive Elements
+![Interactive Elements](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/7.png)
+*Highlighting interactive features of the web application.*
+
+### 8. Final Output & Details
+![Final Output](assets/images/GITHUB%20REPO%20PROJECT%20SCREENSHOTS/8.png)
+*Final output of the completed web deployment.*
 
 ---
 
