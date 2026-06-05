@@ -8,12 +8,6 @@ The primary objective of this project was to gain hands-on experience with cloud
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Website: https://lnkd.in/gZBFKAey
-
----
-
 ## 🛠️ Technologies Used
 
 ### Frontend
