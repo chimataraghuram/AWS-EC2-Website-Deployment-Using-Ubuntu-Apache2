@@ -8,6 +8,13 @@ The primary objective of this project was to gain hands-on experience with cloud
 
 ---
 
+## 🎥 Project Video
+
+Watch the complete project deployment video on LinkedIn:
+🔗 **[View Deployment Video](https://www.linkedin.com/posts/chimataraghuram_aws-ec2-ubuntu-ugcPost-7342919873024401408-oiGl/)**
+
+---
+
 ## 🛠️ Technologies Used
 
 ### Frontend
